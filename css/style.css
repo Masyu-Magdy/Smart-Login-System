@@ -1,0 +1,29 @@
+body {
+  background-color: #24353f;
+}
+.home {
+  border-radius: .8rem;  
+  border: 1px solid;
+  box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+.home2 .home{
+  margin-top: 12rem !important;
+}
+.navbar{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+::placeholder {
+  color: #ced4da !important;
+}
+h1 {
+  color: #17a2b8;
+}
+.form-control {
+  color: white !important;
+  background-color: transparent !important;
+}
+h1,p,a,input,button{
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 500;
+  font-style: normal
+}
